@@ -26,9 +26,11 @@ titles:
 
 # 导航
 
-## 上传猫猫信息
+## 上传猫猫信息/美图
 
 请填写这个问卷（此功能尚未完善，**请直接联系[QQ:1394183427]上传**）
+
+美图请著名是哪只猫猫
 
 ## 查找猫猫信息
 
@@ -37,6 +39,10 @@ titles:
 ## 浏览猫猫信息
 
 请直接点进对应文章
+
+## 信息有误？
+
+[**报错！**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAASWVbDVUQVZFMEdSUUk2RFUwVEFDVTZIWkJaSVgySS4u)
 
 ## 联系我们
 
