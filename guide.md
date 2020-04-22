@@ -28,7 +28,7 @@ titles:
 
 ## 上传猫猫信息
 
-请填写这个问卷
+请填写这个问卷（此功能尚未完善，**请直接联系[QQ:1394183427]上传**）
 
 ## 查找猫猫信息
 
@@ -37,5 +37,9 @@ titles:
 ## 浏览猫猫信息
 
 请直接点进对应文章
+
+## 联系我们
+
+[请填写这个问卷](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAASWVbDVUMlNNODI2TEVKNEpXTVBYWkJKME9CQjRUMS4u)
 
 To be continuted...
